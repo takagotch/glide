@@ -2,7 +2,7 @@
 ---
 https://github.com/glidejs/glide
 
-```
+```sh
 npm install @glidejs/glide
 
 npm install glidjs
@@ -38,7 +38,7 @@ $("#Glide").glide({
 });
 ```
 
-```
+```html
 <a href='#' data-glide-trigger='#Glide' data-glide-dir='=3'>Go to third slide</a> 
 <li class='glide__slide' data-glide-autoplay='6000'></li>
 
